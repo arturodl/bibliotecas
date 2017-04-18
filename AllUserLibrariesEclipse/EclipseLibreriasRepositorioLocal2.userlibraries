@@ -23,7 +23,7 @@
     <library name="HibernateEntityManager4.3.11" systemlibrary="false">
         <archive path="C:/Users/Arturo/Develop/Java/Librerias/JarsHibernate4.3.11/jpa/hibernate-entitymanager-4.3.11.Final.jar"/>
     </library>
-    <library name="JaxWS-2.2.8" systemlibrary="false">
+    <library name="Jaxws2.2.8" systemlibrary="false">
         <archive path="C:/Users/Arturo/Develop/Java/Librerias/JarsJAXWS.2.2.8/gmbal-api-only.jar"/>
         <archive path="C:/Users/Arturo/Develop/Java/Librerias/JarsJAXWS.2.2.8/jaxb-impl.jar"/>
         <archive path="C:/Users/Arturo/Develop/Java/Librerias/JarsJAXWS.2.2.8/jaxws-api.jar"/>
