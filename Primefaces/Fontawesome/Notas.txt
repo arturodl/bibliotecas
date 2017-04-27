@@ -1,0 +1,9 @@
+Fontawesome solo funciona de la version 5.1.1 hacia abajo, de la version 5.2 en adelante primefaces al parecer ya trae
+por defecto estos estilos.
+
+Se uso fontawesome principalmente para usar sus iconos.
+
+Fontawesome forma parte de bootstrap, este jar fue hecho por un programador de primefaces para que pudiera acoplarse 
+al framework.
+
+Para la integracion checar videos y tutoriales en google.
