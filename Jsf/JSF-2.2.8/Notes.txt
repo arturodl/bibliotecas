@@ -1,0 +1,1 @@
+javax.faces file contains the content from both jsf-api and jsf-impl.

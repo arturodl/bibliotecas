@@ -1,0 +1,1 @@
+When Deploying the water project on wildfly 10.1 The ha-api was requested for
