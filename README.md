@@ -5,5 +5,9 @@ Here you will find some of the commons libraries i use in my everyday developer 
 Maybe a short list what you will find in here would be as follows:
 
 ```bash
-pip install foobar
+JSF
+Spring
+Hibernate
+Jax-WS
+JDBCDrivers
 ```
